@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PlayMusicApp</string>
+    <string name="deep_house">Deep House</string>
+    <string name="jazz">Jazz</string>
+    <string name="party">Party</string>
+    <string name="sleep">Sleep</string>
+    <string name="category_deep_house">Deep House</string>
+    <string name="category_jazz">Jazz</string>
+    <string name="category_party">Party</string>
+    <string name="category_sleep">Sleep</string>
+
+    <style name="category_play_song">Playing Song</style>
+</resources>

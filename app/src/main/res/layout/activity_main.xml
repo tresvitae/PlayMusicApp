@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/deep_house"
+        style="@style/MainViewStyle"
+        android:background="@color/deepHouse"
+        android:text="@string/deep_house" />
+
+    <TextView
+        android:id="@+id/jazz"
+        style="@style/MainViewStyle"
+        android:background="@color/jazz"
+        android:text="@string/jazz" />
+
+    <TextView
+        android:id="@+id/party"
+        style="@style/MainViewStyle"
+        android:background="@color/party"
+        android:text="@string/party" />
+
+    <TextView
+        android:id="@+id/sleep"
+        style="@style/MainViewStyle"
+        android:background="@color/sleep"
+        android:text="@string/sleep" />
+
+
+</LinearLayout>
